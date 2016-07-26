@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hey how are you..
+=======
+hey how are you
+>>>>>>> 11a8cddcad9a2e68bb7dbd35245f94e060f1e7ba
